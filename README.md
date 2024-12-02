@@ -1,5 +1,2 @@
-Proyecto realizado por: Jose Daniel Almanza Avila - Documentación
-Dor Maria Luna Genes - Documentación
-Fabio Andres Galeano Santamaria - Desarrollador
-Jesus David Valdelamar Vega - Desarrollador
-Jose Gabriel Manjarrez Hernandez - Visualizador
+Proyecto realizado por: Jose Daniel Almanza Avila, Dor Maria Luna Genes, Fabio Andres Galeano Santamaria, Jesus David Valdelamar Vega,
+Jose Gabriel Manjarrez Hernandez
